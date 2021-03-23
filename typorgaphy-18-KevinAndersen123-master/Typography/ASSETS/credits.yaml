@@ -1,0 +1,16 @@
+Credits:
+  - group_name1: Artists
+    group_list:
+     - person_name1: Kevin
+     - person_name2: Kevo
+     - person_name3: Kev
+  - group_name2: Programmers
+    group_list:
+     - person_name1: Caoimhin
+     - person_name2: Kevin
+     - person_name3: Kevino
+  - group_name3: Audio
+    group_list:
+    - person_name1: Kevinsen
+    - person_name2: Megan
+    - person_name3: KevinEspen
